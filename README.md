@@ -1,4 +1,5 @@
 # IBM1_evolution
  about IBM1 intron methylation and evolution
-- [ ] give the background
-- [ ] give the background2
+- [ ] add github repository
+- [ ] add local computer
+- [ ] Add remote cluster
